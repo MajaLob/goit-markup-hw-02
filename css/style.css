@@ -1,0 +1,168 @@
+.body {
+  font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: black;
+}
+
+.top-sec {
+  background-color: #ffffff;
+}
+
+.logo {
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 1.17;
+  color: #000000;
+  text-decoration: none;
+  letter-spacing: 0.03em;
+}
+
+.logo-color {
+  font-family: "Raleway";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 1.6rem;
+  line-height: 31px;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.logo-color:hover {
+  color: #2196f3;
+}
+
+.logo:visited {
+  color: black;
+}
+
+.navigation .nav-font {
+  font-weight: 500;
+  font-size: 0.9rem;
+  line-height: 1.14;
+  text-decoration: none;
+  color: #212121;
+  letter-spacing: 0.02em;
+}
+
+.navigation:hover {
+  color: #2196f3;
+}
+
+.contact {
+  font-weight: 500;
+  color: var(--grey);
+  font-size: 0.9rem;
+  line-height: 1.14;
+  text-decoration: none;
+  letter-spacing: 0.02em;
+}
+
+.contact:hover,
+.contact:focus {
+  color: #2196f3;
+}
+
+.first-sec {
+  background-color: #2f303a;
+}
+
+.primary {
+  font-weight: 900;
+  font-size: 2.75;
+  line-height: 60px;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+}
+
+.order-button {
+  font-weight: 700;
+  font-size: 1rem;
+  line-height: 30px;
+  display: flex;
+  align-items: center;
+  letter-spacing: 0.06em;
+  color: #ffffff;
+  background-color: #2196f3;
+}
+
+.second-sec .lorem-title {
+  font-weight: 700;
+  font-size: 0.9rem;
+  line-height: 16px;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+  color: #2196f3;
+}
+
+.second-sec .below-lorem {
+  font-size: 0.9rem;
+  line-height: 24px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.third-sec .third-sec-title,
+.fourth-sec .fourth-sec-title {
+  font-weight: 700;
+  font-size: 2.25rem;
+  line-height: 42px;
+  letter-spacing: 0.03em;
+}
+
+.fourth-sec {
+  background-color: #f5f4fa;
+}
+
+.fourth-sec .person-data {
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+  color: #212121;
+}
+
+.fourth-sec .role {
+  font-size: 1rem;
+  line-height: 19px;
+  letter-spacing: 0.03em;
+  color: #757575;
+}
+
+.bottom-style .logo {
+  color: #ffffff;
+}
+
+.bottom-style {
+  background-color: #2f303a;
+}
+
+.bottom-style .address {
+  text-decoration: none;
+  font-size: 0.9rem;
+  line-height: 146%;
+  letter-spacing: 3%;
+  color: #ffffff;
+}
+
+.bottom-style .mail,
+.bottom-style .tel {
+  text-decoration: none;
+  font-size: 0.9rem;
+  line-height: 1.71;
+  letter-spacing: 0.03em;
+  color: #2196f3;
+}
+
+.portfolio-sec button {
+  background-color: F5F4FA;
+  color: #2196f3;
+  font-weight: 500;
+  font-size: 1rem;
+  line-height: 1.625;
+  text-align: center;
+  letter-spacing: 0.03em;
+  cursor: pointer;
+  border-radius: 4px;
+}
